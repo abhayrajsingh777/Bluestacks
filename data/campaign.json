@@ -1,0 +1,43 @@
+[
+    {
+        "campaignId":"01",
+        "date":"2017-05-01",
+        "day":"330",
+        "campaign_img":"ion-social-github-outline",
+        "camp_type":"Github",
+        "Country":"US"
+    },
+    {
+        "campaignId":"02",
+        "date":"2018-12-02",
+        "day":"90",
+        "campaign_img":"ion-social-twitter",
+        "camp_type":"Twitter",
+        "Country":"UK"             
+    },
+    {
+        "campaignId":"03",
+        "date":"2019-8-12",
+        "day":"20",
+        "campaign_img":"ion-social-instagram",
+        "camp_type":"Instagram",
+        "Country":"Australia"             
+    },
+    {
+        "campaignId":"04",
+        "date":"2017-1-02",
+        "day":"60",
+        "campaign_img":"ion-social-instagram",
+        "camp_type":"Instagram",
+        "Country":"Brazil"             
+    },
+    {
+        "campaignId":"05",
+        "date":"2017-11-08",
+        "day":"60",
+        "campaign_img":"ion-social-linkedin",
+        "camp_type":"Linkedin",
+        "Country":"Germany"             
+    }                     
+              
+]

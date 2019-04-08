@@ -1,0 +1,57 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing:box-border;
+}
+nav img[alt=logo]{
+    width: 45px;
+}
+nav img[alt=udown]{
+    width: 70px;
+}
+.container .head{
+    font-size:24px;
+}
+table th{
+    background: #ececec;
+    font-size: 14px!important;
+}
+table td{
+    font-size: 10px;
+    color:#7b7979;
+}
+td i{
+    font-size: 24px;
+}
+.cen{
+    align-items: center;
+}
+.table{
+    max-width: 820px;
+    margin: 0 auto;
+}
+table th:nth-child(1){
+    width: 18%;
+}
+table th:nth-child(2){
+    width: 30%;
+}
+table th:nth-child(3){
+    width: 12%;
+}
+.div33{
+    width:33.33%;
+}
+a{
+    cursor: pointer;
+}
+.gj-textbox-md{
+    border-bottom: none!important;
+    padding:0px!important;
+    visibility: hidden!important;
+    height: 35px!important;
+}
+.gj-datepicker-md [role=right-icon]{
+    right:40px!important;
+    top:5px!important;
+}
